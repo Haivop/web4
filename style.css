@@ -87,7 +87,7 @@ footer .logo{
 }
 
 .inner-container{
-    background-image: url(https://img.freepik.com/free-photo/view-mountain-with-dreamy-aesthetic_23-2151700282.jpg?t=st=1730476794~exp=1730480394~hmac=190d4ef7e7584fa034d1c7496e68e0bab6a9848154045a83bdb5b6f0cfc1a494&w=1380);
+    background-image: url(screen_back.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
@@ -176,9 +176,7 @@ footer .logo{
 
 @media screen and (max-width: 720px), screen and (max-aspect-ratio: 9/16){
     .inner-container{
-        background-image: url(https://img.freepik.com/free-photo/magical-mystical-landscape-wallpaper-purple-tones_23-2150293328.jpg?t=st=1730486947~exp=1730490547~hmac=6d144072b33a9bc377b6f85259bbb0d8dd5e2a00abe1c45c12075df63d34a78d&w=740);
-        background-repeat: no-repeat;
-        background-position: center;
+        background-image: url(mobile_back.jpg);
         background-size: 100% 100%;
         
         grid-area: inner-container;
